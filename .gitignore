@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Maven
+target/
+.m2/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build
+out/
+build/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
